@@ -19,7 +19,7 @@ namespace ProEventos.API.Controllers
                 Local = "Bauru",
                 Lote = "1° Lote",
                 QtdPessoas = 250,
-                DataEvento = DateTime.Now.AddDays(2).ToString(),
+                DataEvento = DateTime.Now.AddDays(3).ToString(),
                 ImegemURL = "foto.jpg"
             },
             new Evento(){
